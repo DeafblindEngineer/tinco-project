@@ -2,6 +2,8 @@
 
 **Warning:** if you want to give these experimental programs a try, you should first fork this repository, review the code, and remove things you don't want or need. Do not blindly use my source code unless you know what that entails. Use at your own risk!
 
+### What is the project about?
+
 The Tinco Project is my research and investigations down at the metal. My primarily programming languages are Assembly, C, C++, and Rust, but I am also curious about and experimenting with HareLang, and ZigLang. This project focuses on low-level system programming and hardware driver development.
 
 ### Behind the codename
