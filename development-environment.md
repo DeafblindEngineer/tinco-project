@@ -1,6 +1,6 @@
 ### Development Environment
 
-This is my development environment for low-level system programming and driver development. My distribution is Ubuntu 22.04 LTS (Jammy Jellyfish) with the Gnome Desktop. It has been setup for the following programming languages: Assembly, C, C++
+This is my development environment for low-level system programming and hardware driver development. My distribution is Ubuntu 22.04 LTS (Jammy Jellyfish) with the Gnome Desktop. It has been setup for the following programming languages: Assembly, C, C++
 
 ### IDE
 
