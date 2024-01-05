@@ -20,7 +20,7 @@ $ vim ~/.vimrc
 $ vim ~/.tmux.conf
 ```
 
-**NOTE:** my dotfiles can be found here.
+**NOTE:** my [dotfiles](https://github.com/DeafblindEngineer/dotfiles).
 
 ### Installation
 
