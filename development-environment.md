@@ -46,7 +46,8 @@ $ gcc --version
 $ sudo apt install gdb		// install the debugger. It supports: Assembly, C, C++
 $ gdb --version
 ```
-## git
 
+```
 $ sudo apt install git		// install the distributed version control system
 $ git --version
+```
