@@ -25,29 +25,29 @@ $ vim ~/.tmux.conf
 ### Installation
 
 ```
-$ sudo apt install vim		// install the text editor
-$ sudo apt install tmux		// install the terminal multiplexer
-$ sudo apt install qemu		// install the machine emulator
+$ sudo apt install vim	// install the text editor
+$ sudo apt install tmux	// install the terminal multiplexer
+$ sudo apt install qemu	// install the machine emulator
 ```
 
 ```
-$ sudo apt install nasm		// install the Netwide Assembler for the Assembly Language
+$ sudo apt install nasm	// install the Netwide Assembler for the Assembly Language
 $ nasm --version
 ```
 
 ```
-$ sudo apt install build-essential manpages-dev		// installs the following packages: dpkg-dev, make, libc6-dev, gcc/g++ together with the man pages for the C and C++ Languages
+$ sudo apt install build-essential manpages-dev	// installs the following packages: dpkg-dev, make, libc6-dev, gcc/g++ together with the man pages for the C and C++ Languages
 $ whereis gcc
 $ which gcc
 $ gcc --version
 ```
 
 ```
-$ sudo apt install gdb		// install the debugger. It supports: Assembly, C, C++
+$ sudo apt install gdb	// install the debugger. It supports: Assembly, C, C++
 $ gdb --version
 ```
 
 ```
-$ sudo apt install git		// install the distributed version control system
+$ sudo apt install git	// install the distributed version control system
 $ git --version
 ```
